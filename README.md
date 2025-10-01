@@ -146,6 +146,8 @@ cliente-correo-electronico/
     ├── ejemplo_basico.py
     ├── ejemplo_avanzado.py
     └── demo_completa.py
+
+    
 🏗️ Arquitectura del Sistema
 Clases Principales
 Mensaje
